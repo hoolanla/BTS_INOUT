@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="CheckName" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CheckTimeStamp" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CheckCompany" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="IntervalFadeOut" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3000</Value>
+    </Setting>
+    <Setting Name="IntervalCheck" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="DoorIN" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Innerfance I-8 IN</Value>
+    </Setting>
+    <Setting Name="DoorOut" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Innerfance I-8 OUT</Value>
+    </Setting>
+    <Setting Name="ConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=172.16.128.16\Verex ;Initial Catalog=Director;Persist Security Info=True;User ID=DirectorQueryUser;Password=P@ssw0rd;Connection Timeout=120;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
